@@ -15,7 +15,7 @@ setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
         "Intended Audience :: Education",
-        "Topic :: Scientific/Engineering :: Mathematics"
+        "Topic :: Scientific/Engineering :: Information Analysis"
     ],
     python_requires=">=3.7",
     install_requires=[
