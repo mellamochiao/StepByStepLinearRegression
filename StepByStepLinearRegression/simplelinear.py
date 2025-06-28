@@ -63,3 +63,4 @@ class SimpleLinearRegression:
 
     def show_steps(self):
         print(self.steps_df.to_string(index=False))
+        #應該要表格呈現
