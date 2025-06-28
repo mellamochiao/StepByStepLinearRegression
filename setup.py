@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="StepByStepLinearRegression",
-    version="0.1.0",
+    version="0.1.1",
     author="mellamochiao",
     author_email="chou6855@gmail.com",
     description="A package for step-by-step regression analysis including simple, multiple, and logistic regression.",

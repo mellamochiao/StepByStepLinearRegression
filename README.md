@@ -11,7 +11,7 @@ Instead of spending excessive time on mechanical computation, you can use this t
 
 ## Installation
 
-You can install the package from PyPI:
+You can install the package from [PyPI](https://pypi.org/project/StepByStepLinearRegression/):
 
 ```bash
 pip install StepByStepLinearRegression
