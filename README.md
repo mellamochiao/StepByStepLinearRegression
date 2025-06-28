@@ -20,6 +20,7 @@ cd StepByStepLinearRegression
 ```
 
 ## Usage
+It is recommended to run this package in .ipynb (Jupyter Notebook) format for best interactivity and readability of computation steps.
 Check [`test.ipynb`](https://github.com/mellamochiao/StepByStepLinearRegression/blob/main/test.ipynb) to see how to use this package in practice.
 
 ## Author
